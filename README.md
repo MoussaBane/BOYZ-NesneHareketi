@@ -14,4 +14,4 @@ Beklenen içerik:
 - Zamanın normalizasyonu (nesnenin saniyede bir birim ilerlemesi), 
 - Speed değişkeni tanımlama (public, private farkı), 
 - Klavyeden yön tuşları ile nesnenin hareketinin kontrolü (dikey eksen). 
-Bonus: yatay eksenin hareket kontrolüne dahil edilmesi
+- Bonus: yatay eksenin hareket kontrolüne dahil edilmesi
